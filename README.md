@@ -1,4 +1,4 @@
-# Introduction to Neural Networks in Python
+# Neural Networks
 Source code to go with my introductory video on neural nets in python
 
 ## Setup
